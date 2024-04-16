@@ -8,7 +8,7 @@ private Developer CreateDeveloper()
   return new Developer() 
   {  
     Name = "Vlad Paliychuk",  
-    Skills = C#, .Net, Docker, Git, HTML, CSS   
+    Skills = new List<string> { "C#", ".Net", "Docker", "Git", "HTML", "CSS" }, 
     IsLookingForOffer = true  
   }  
 } 
