@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <br>
-I'm looking for <b>C# .Net Developer<b> position
+I'm looking for <b>C# .Net Developer</b> position
 <br>
 ```c#
 private Developer CreateDeveloper() 
