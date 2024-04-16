@@ -5,12 +5,16 @@ private Developer CreateDeveloper()
 {  
   return new Developer() 
   {  
-    Name = "Vald Paliychuk",  
-    Skils = C#, .Net, Docker, Git, HTML, CSS   
+    Name = "Vlad Paliychuk",  
+    Skills = C#, .Net, Docker, Git, HTML, CSS   
     IsLookingForOffer = true  
   }  
 } 
 ```
+<br>
+<p2>Contacts</p2>
+Email: 
+Telegram
 <!--
 **VladPaliychuk/VladPaliychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
