@@ -12,7 +12,7 @@ private Developer CreateDeveloper()
 } 
 ```
 <br>
-<h2>Contacts</h22> <br>
+<h2>Contacts</h2> <br>
 Email: pal.valdyslav@gmail.com  <br>
 Telegram: https://t.me/aaadddddjjjjjkk <br>
 <!--
