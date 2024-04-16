@@ -16,6 +16,12 @@ private Developer CreateDeveloper()
 <h2>Contacts</h2> 
 Email: pal.valdyslav@gmail.com <br>
 Telegram: https://t.me/aaadddddjjjjjkk <br>
+
+<h2>Education</h2>
+<ul>
+  <li>Chernivtsi National University, Computer Science, bachelor degree (01.09.2021 - today)</li>
+</ul>
+
 <!--
 **VladPaliychuk/VladPaliychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
