@@ -21,7 +21,7 @@ Telegram: https://t.me/aaadddddjjjjjkk <br>
 <ul>
   <li>Chernivtsi National University, Computer Science, Bachelor's degree (01.09.2021 - today)</li>
 </ul>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VladPaliychuk/VladPaliychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
