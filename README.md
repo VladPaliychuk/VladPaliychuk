@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-<br>
+
 I'm looking for <b>C# .Net Developer</b> position
 <br>
 ```c#
@@ -19,7 +19,7 @@ Telegram: https://t.me/aaadddddjjjjjkk <br>
 
 <h2>Education</h2>
 <ul>
-  <li>Chernivtsi National University, Computer Science, bachelor degree (01.09.2021 - today)</li>
+  <li>Chernivtsi National University, Computer Science, Bachelor's degree (01.09.2021 - today)</li>
 </ul>
 
 <!--
