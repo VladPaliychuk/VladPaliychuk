@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <br>
-<p>
-private Developer CreateDeveloper()  <br>
-{  <br>
-  return new Developer()  <br>
-  {  <br>
-    Name = "Vald Paliychuk",  <br>
-    Skils = C#, .Net, Docker, Git, HTML, CSS   <br>
-    IsLookingForOffer = true  <br>
-  }  <br>
-}  <br>
-</p>
+```c#
+private Developer CreateDeveloper() 
+{  
+  return new Developer() 
+  {  
+    Name = "Vald Paliychuk",  
+    Skils = C#, .Net, Docker, Git, HTML, CSS   
+    IsLookingForOffer = true  
+  }  
+} 
+```
 <!--
 **VladPaliychuk/VladPaliychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
