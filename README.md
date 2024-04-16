@@ -12,9 +12,9 @@ private Developer CreateDeveloper()
 } 
 ```
 <br>
-<p2>Contacts</p2><br>
-Email: pal.valdyslav@gmail.com
-Telegram: https://t.me/aaadddddjjjjjkk
+<h2>Contacts</h22> <br>
+Email: pal.valdyslav@gmail.com  <br>
+Telegram: https://t.me/aaadddddjjjjjkk <br>
 <!--
 **VladPaliychuk/VladPaliychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
