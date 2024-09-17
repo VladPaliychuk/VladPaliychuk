@@ -19,7 +19,7 @@ Telegram: https://t.me/aaadddddjjjjjkk <br>
 
 <h2>Education</h2>
 <ul>
-  <li>Chernivtsi National University, Computer Science, Bachelor's degree (01.09.2021 - today)</li>
+  <li>Chernivtsi National University, Computer Science, unfinished Bachelor's degree (01.09.2021 - today)</li>
 </ul>
 <br>
 
