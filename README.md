@@ -8,8 +8,8 @@ private Developer CreateDeveloper()
   {  
     Name = "Vlad Paliychuk",  
     Skills = new List<string> { "C#", ".Net", "Docker", "Git", "HTML", "CSS" }, 
-    IsLookingForOffer = true  
-  }  
+    IsLookingForOffer = true
+  };  
 } 
 ```
 <h2>Contacts</h2> 
